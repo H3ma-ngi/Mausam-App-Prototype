@@ -1,0 +1,8 @@
+{
+  "name": "Remix Mausam - Personalized Weather Homepage",
+  "description": "SIH 2026 Problem Statement 26076: Modern, mobile-first personalized homepage for the Mausam (IMD) weather app with rule-based prioritization, alerts, offline caching, and bilingual support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
